@@ -1,2 +1,4 @@
 # Hello-world
 This repository is for practicing the GitHub Flow.
+
+Hola futuro yo que haga, o no la actividad, espero te encuentres bien, en la medida de lo posible, en este mensaje te expreso que estoy cansado y no tengo ganas de hacer nada, pero absolutamente nada, ni siquiera a aquello que me brinda un poco de alegría, no se si terminaré, no se si lo intentaré, solo trato de ganar tiempo, de sobrevivir, pero a pesar de todo este desgané y desilución solo hay algo en lo que puedo pensar, solo alguien a quien puedo desear, su nombre prohibitivo porque no sé quien pueda leer esto, abruma mis pensamientos pasados, presentes y futuros; sin embargo, con tan nula fuerza vital para intentar algo más que respirar, estoy condenado a admirar como mi deseo de convierte lentamente en la mas grande de mis derrotas, y en el clavo que probablemente por fin tenga el poder de enviarme prematuramente a la tumba.
